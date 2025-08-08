@@ -1,0 +1,18 @@
+EXPERIMENTAL SETUP
+
+1.	H20: 2 min = 120s (time to stop and change the substance) ok
+2.	PBS-10X: 5 min = 300s -> 120+300 = 420s (time to stop and change the substance) OK
+3.	BIOTIN 3.47mg/20mlPBS: 15 min = 900s -> 420+900 = 1320s(time to stop and change the substance); INTERRUPTING TIME: 1m50s = 110s ok -> 530s (time to remove the waste and make a closed loop in the biotin Becker)
+4.	PBS-10X: 110s we maintain the waste pipe in the biotin becker after this, 3 min and 10s of pbs-10x OK
+
+CLEANING CICLE:
+
+1.	H20 - 2 min (120s and change to the next one) OK
+2.	hipo - 1 min (60s and change to the next one) OK
+3.	H20 - 2 min (120s and change to the next one) OK
+4.	hipo - 1 min (120s and change to the next one) OK
+5.	H20 - 2 min (120s and change to the next one) OK
+6.	hipo - 1 min (60s and change to the next one) OK
+7.	H20 - 2 min (120s and change tot the next one) OK
+
+SPEED: 5.00
